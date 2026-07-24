@@ -27,7 +27,7 @@ export function Hero() {
               className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-brand/10 text-brand text-[11px] font-bold uppercase tracking-widest mb-6"
             >
               <span className="size-1.5 rounded-full bg-brand animate-pulse" />
-              SUM Hospital Campus-II, Bhubaneswar
+              Near SUM Hospital Campus-II, Bhubaneswar
             </motion.span>
             <motion.h1
               initial={{ opacity: 0, y: 16 }}
