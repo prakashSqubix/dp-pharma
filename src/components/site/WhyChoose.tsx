@@ -14,7 +14,7 @@ const reasons = [
   { icon: BadgeCheck, title: "Genuine Medicines", text: "Sourced only from licensed distributors." },
   { icon: Stethoscope, title: "Experienced Doctors", text: "Consultants across 14+ specialties." },
   { icon: IndianRupee, title: "Affordable Care", text: "Honest pricing, no hidden charges." },
-  { icon: MapPin, title: "Convenient Location", text: "Inside SUM Campus-II, Phulnakhara." },
+  { icon: MapPin, title: "Convenient Location", text: "Near SUM Campus-II, Phulnakhara." },
   { icon: Users, title: "Friendly Staff", text: "Warm, patient, and attentive team." },
   { icon: Zap, title: "Fast Service", text: "Quick counters and short waiting times." },
   { icon: FileHeart, title: "Prescription Support", text: "Guidance on dosage and refills." },

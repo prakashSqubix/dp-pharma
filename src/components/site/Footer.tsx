@@ -66,7 +66,7 @@ export function Footer() {
         </div>
         <div className="mt-12 pt-6 border-t border-slate-100 flex flex-col md:flex-row items-center justify-between gap-3 text-xs text-slate-500">
           <p>© {new Date().getFullYear()} {BRAND.name}. All rights reserved.</p>
-          <p>Designed with <a href="https://squbix.com/" target="_blank" rel="noopener noreferrer" className="hover:text-brand transition-colors underline">Squbix Digital Pvt. Ltd.</a></p>
+          <p>Designed By <a href="https://squbix.com/" target="_blank" rel="noopener noreferrer" className="hover:text-brand transition-colors underline">Squbix Digital Pvt. Ltd.</a></p>
         </div>
       </div>
     </footer>
