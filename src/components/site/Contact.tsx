@@ -23,7 +23,7 @@ export function Contact() {
               We're here whenever you need us.
             </h2>
             <p className="mt-4 text-white/80 max-w-xl">
-              Call, WhatsApp or visit us directly at D P Pharma inside SUM Hospital Campus-II,
+              Call, WhatsApp or visit us directly at D P Pharma near SUM Hospital Campus-II,
               Phulnakhara.
             </p>
 

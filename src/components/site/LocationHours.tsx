@@ -10,7 +10,7 @@ export function LocationHours() {
       <div className="mx-auto max-w-7xl px-6">
         <SectionHeader
           eyebrow="Visit us"
-          title="Located inside SUM Hospital Campus-II."
+          title="Located near SUM Hospital Campus-II."
         />
         <div className="mt-14 grid lg:grid-cols-5 gap-6">
           {/* Map */}
@@ -107,11 +107,10 @@ export function LocationHours() {
                   return (
                     <li
                       key={row.day}
-                      className={`flex items-center justify-between px-3 py-2 rounded-xl text-sm transition-colors ${
-                        active
+                      className={`flex items-center justify-between px-3 py-2 rounded-xl text-sm transition-colors ${active
                           ? "bg-brand/10 text-brand-secondary font-bold"
                           : "text-slate-600"
-                      }`}
+                        }`}
                     >
                       <span>{row.day}</span>
                       <span className="font-mono text-xs md:text-sm">{row.hours}</span>

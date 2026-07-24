@@ -6,7 +6,7 @@ const points = [
   "Certified genuine medicines",
   "Board-certified specialist doctors",
   "Patient-first approach across every visit",
-  "Convenient location inside SUM Campus-II",
+  "Convenient location near SUM Campus-II",
 ];
 
 export function About() {

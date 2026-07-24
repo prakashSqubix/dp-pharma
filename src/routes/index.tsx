@@ -23,11 +23,11 @@ const jsonLd = {
   "@type": ["MedicalBusiness", "Pharmacy", "LocalBusiness"],
   name: "D P PHARMA",
   description: DESCRIPTION,
-  telephone: ["+917894558338", "+917978243634", "+917008611729"],
+  telephone: ["+917894558338", "+917978243634", "+917008661729"],
   address: {
     "@type": "PostalAddress",
     streetAddress:
-      "Ground Floor, Big Cup Cafe Campus, Hospital-2, Beside HDFC Bank, Near IMS & SUM, Phulnakhara",
+      "Ground Floor, Big Cup Cafe Campus, Phulnakhara, Near IMS & SUM Hospital-II, Pahal, Bhubaneswar, Odisha 751032",
     addressLocality: "Bhubaneswar",
     addressRegion: "Odisha",
     addressCountry: "IN",
